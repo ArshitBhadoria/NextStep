@@ -3,7 +3,7 @@
    AI-Powered Student Benefits Discovery
 ========================================================= */
 
-const API_URL = "http://127.0.0.1:8000/analyze";
+const API_URL = "https://nextstep-4-amwe.onrender.com/analyze";
 
 let selectedCategory = "";
 let userProfile = {};
