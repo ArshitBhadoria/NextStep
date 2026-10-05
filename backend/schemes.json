@@ -1,0 +1,26 @@
+[
+  {
+    "name": "PM Scholarship Scheme",
+    "course": "B.Tech",
+    "income_limit": 600000,
+    "parent_occupation": "Defence",
+    "state": "All",
+    "description": "Scholarship support for eligible wards of defence personnel."
+  },
+  {
+    "name": "Central Sector Scholarship",
+    "course": "B.Tech",
+    "income_limit": 450000,
+    "parent_occupation": "All",
+    "state": "All",
+    "description": "Higher education scholarship for eligible students."
+  },
+  {
+    "name": "Maharashtra State Scholarship",
+    "course": "B.Tech",
+    "income_limit": 800000,
+    "parent_occupation": "All",
+    "state": "Maharashtra",
+    "description": "Scholarship support for eligible students studying in Maharashtra."
+  }
+]

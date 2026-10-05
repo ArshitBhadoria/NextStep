@@ -1,0 +1,52 @@
+[
+  {
+    "id": "benefit_001",
+    "name": "Example Defence Family Scholarship",
+    "category": "scholarship",
+    "education_level": ["college"],
+    "min_percentage": 80,
+    "parent_occupation": ["army"],
+    "income_required": true,
+    "documents": [
+      "Class 12 marksheet",
+      "Service certificate",
+      "Income certificate"
+    ],
+    "benefit": "Financial assistance for eligible students",
+    "deadline": "Verify from official source",
+    "official_source": "Official scholarship portal"
+  },
+  {
+    "id": "benefit_002",
+    "name": "Example Merit Scholarship",
+    "category": "scholarship",
+    "education_level": ["college"],
+    "min_percentage": 85,
+    "parent_occupation": ["any"],
+    "income_required": false,
+    "documents": [
+      "Class 12 marksheet",
+      "College admission proof"
+    ],
+    "benefit": "Merit-based financial assistance",
+    "deadline": "Verify from official source",
+    "official_source": "Official scholarship portal"
+  },
+  {
+    "id": "benefit_003",
+    "name": "Example Student Financial Assistance",
+    "category": "scholarship",
+    "education_level": ["college"],
+    "min_percentage": 75,
+    "parent_occupation": ["any"],
+    "income_required": true,
+    "documents": [
+      "Marksheets",
+      "College admission proof",
+      "Income certificate"
+    ],
+    "benefit": "Educational financial assistance",
+    "deadline": "Verify from official source",
+    "official_source": "Official scholarship portal"
+  }
+]
